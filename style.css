@@ -1,0 +1,9 @@
+/* TODO - Add Custom Attributes
+        - Add reset.css */
+main{
+    background-color:hsl(216, 12%, 8%)
+}
+.thank-you-confirmation{
+/* Hide it for now */
+display: none;
+}
